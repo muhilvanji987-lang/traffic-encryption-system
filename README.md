@@ -148,5 +148,5 @@ git push
 
 ## 👤 Authors
 
-Vanji Muthu P · S. Udhaiappan · D. Sathiyan
-V.S.B. College of Engineering, 2026
+Vanji Muthu P · S. Udhaiyappan · D. Sathiyan
+V.S.B. College of Engineering And Technical Campus Coimbatore.
